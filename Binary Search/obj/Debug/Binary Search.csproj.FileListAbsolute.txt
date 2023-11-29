@@ -1,0 +1,7 @@
+D:\GitHub\SortingAlgorithms\Binary Search\bin\Debug\Binary Search.exe.config
+D:\GitHub\SortingAlgorithms\Binary Search\bin\Debug\Binary Search.exe
+D:\GitHub\SortingAlgorithms\Binary Search\bin\Debug\Binary Search.pdb
+D:\GitHub\SortingAlgorithms\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+D:\GitHub\SortingAlgorithms\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+D:\GitHub\SortingAlgorithms\Binary Search\obj\Debug\Binary Search.exe
+D:\GitHub\SortingAlgorithms\Binary Search\obj\Debug\Binary Search.pdb
